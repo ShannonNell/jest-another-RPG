@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command-line RPG where a user battles enemies whose health and stats can be sustained by potion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShannonNell/jest-another-RPG.git"
+  },
+  "author": "Shannon Nell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShannonNell/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ShannonNell/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
